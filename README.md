@@ -1,13 +1,15 @@
 # Gabriel Alexandre Rodrigues Silva
 
-Game Developer focused on Unity, C# and interactive gameplay systems.
+Game Programmer focused on Unity, C# and interactive gameplay systems.
 
-I work with game development and build projects around gameplay mechanics, prototypes, object interaction and player experience. I am currently looking for new opportunities in game development, especially roles involving Unity, C# and gameplay programming.
+I am a Digital Games graduate and game programmer with practical experience in Unity, C#, gameplay mechanics, prototypes, teamwork and project management for game development. I am currently looking for new opportunities in game development, especially roles involving Unity, C# and gameplay programming.
 
 ## About Me
 
-- Game developer with practical experience in Unity and C#
-- Focused on gameplay mechanics, prototyping and interactive systems
+- Game programmer with strong focus on Unity and C#
+- Digital Games graduate
+- Experience with teamwork and project management in game development
+- Focused on gameplay mechanics, prototyping, interaction systems and game logic
 - Interested in clean project structure, readable code and polished player feedback
 - Currently improving my portfolio with small, finished game projects
 
@@ -18,7 +20,16 @@ I work with game development and build projects around gameplay mechanics, proto
 - Gameplay programming
 - Game prototyping
 - Object interaction and game logic
+- Teamwork in game development
+- Project management
 - Git and GitHub
+
+## Additional Experience
+
+- Basic experience with Unreal Engine
+- Experience with GameMaker Studio and GML
+- Experience with Godot
+- Programming knowledge in C++, Python and GL
 
 ## Featured Work
 
@@ -36,4 +47,4 @@ Build a stronger game development portfolio with finished Unity projects, gamepl
 
 ## Contact
 
-- GitHub: [GabrielAlexandre111](https://github.com/GabrielAlexandre111)
+- GitHub: [DotDash1111](https://github.com/DotDash1111)
