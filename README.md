@@ -45,4 +45,4 @@ Some repositories are study projects, prototypes or experiments created while le
 
 ## Contact
 
-- GitHub: [DotDash1111](https://github.com/DotDash1111)
+- GitHub: [GabrielAlexandre111]([https://github.com/DotDash1111](https://github.com/GabrielAlexandre111/GabrielAlexandre111))
