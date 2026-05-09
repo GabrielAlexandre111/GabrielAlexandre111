@@ -2,7 +2,7 @@
 
 Game Programmer focused on Unity, C# and interactive gameplay systems.
 
-I am a Digital Games graduate and game programmer with practical experience in Unity, C#, gameplay mechanics, prototypes, teamwork and project management for game development. I am currently looking for new opportunities in game development, especially roles involving Unity, C# and gameplay programming.
+I am a Digital Games graduate and game programmer with practical experience in Unity, C#, gameplay mechanics, prototypes, teamwork and project management for game development.
 
 ## About Me
 
